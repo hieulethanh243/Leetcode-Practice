@@ -32,7 +32,7 @@
 
 ## 🏆 LeetCode Profile
 
-👉 [My LeetCode Profile](https://leetcode.com/)
+👉 [My LeetCode Profile](https://leetcode.com/u/hieulethanh243/)
 
 ---
 
